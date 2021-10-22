@@ -2,7 +2,7 @@
 
 ## My story...
 
-Hello its me ! AidtheOgre, Aidan Ogle, or as my friends like to call me, Will Hunting!
+Hello its me ! AidtheOgre, Aidan Ogle, or as my friends like to call me, Will Hunting! Here is my story written in the third person!
 
 Twenty-year-old Will Hunting of South Boston is a natural genius who is self-taught. He works as a janitor at MIT and spends his free time drinking with his friends Chuckie, Billy, and Morgan. When Professor Gerald Lambeau posts a difficult combinatorial mathematics problem on a blackboard as a challenge for his graduate students, Will solves the problem anonymously, stunning both the students and Lambeau. As a challenge to the unknown genius, Lambeau posts an even more difficult problem. Will flees when Lambeau catches him writing the solution on the blackboard late at night. At a bar, Will meets Skylar, a British woman about to graduate from Harvard College, who plans on attending medical school at Stanford.
 
@@ -26,13 +26,17 @@ Will walks in on a heated argument between Sean and Lambeau over his potential. 
 
 
 #### Shortcuts
- For about me click [here][about me].
- For my personal heroes click [here][personal heroes]
- For My favorite activities click [here][favorite activities]
- For a block of code I wrote click [here][code block]
- For my favorite websites click [here][favorite websites]
-[about me]: www.github.com
+ * For home click [here][home].
+ * For my personal heroes click [here][personal heroes]
+ * For My favorite activities click [here][favorite activities]
+ * For a block of code I wrote click [here][code block]
+ * For my favorite websites click [here][favorite websites]
+[home]: https://aidtheogre.github.io
 [personal heroes]: www.github.com  
 [favorite activities]: www.github.com  
 [code block]: www.github.com  
 [favorite websites]: www.github.com  
+
+##### Reference:
+[https://en.wikipedia.org/wiki/Good_Will_Hunting](https://en.wikipedia.org/wiki/Good_Will_Hunting).
+
