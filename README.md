@@ -35,7 +35,7 @@ Will walks in on a heated argument between Sean and Lambeau over his potential. 
 
 [home]: https://aidtheogre.github.io
 
-[personal heroes]: www.github.com  
+[personal heroes]: https://aidtheogre.github.io/heroes.github.io/  
 
 [favorite activities]: www.github.com  
 
