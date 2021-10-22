@@ -31,11 +31,18 @@ Will walks in on a heated argument between Sean and Lambeau over his potential. 
  * For My favorite activities click [here][favorite activities]
  * For a block of code I wrote click [here][code block]
  * For my favorite websites click [here][favorite websites]
+
+
 [home]: https://aidtheogre.github.io
+
 [personal heroes]: www.github.com  
+
 [favorite activities]: www.github.com  
+
 [code block]: www.github.com  
+
 [favorite websites]: www.github.com  
+
 
 ##### Reference:
 [https://en.wikipedia.org/wiki/Good_Will_Hunting](https://en.wikipedia.org/wiki/Good_Will_Hunting).
