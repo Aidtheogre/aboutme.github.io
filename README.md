@@ -39,7 +39,7 @@ Will walks in on a heated argument between Sean and Lambeau over his potential. 
 
 [favorite activities]: https://aidtheogre.github.io/favoriteactivities.github.io/
 
-[code block]: www.github.com  
+[code block]: https://aidtheogre.github.io/Blockofcode.github.io/
 
 
 
